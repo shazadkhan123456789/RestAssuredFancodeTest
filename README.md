@@ -52,8 +52,8 @@ Follow these steps to set up and run the project on your local machine.
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/rest-assured-api-automation.git
-cd rest-assured-api-automation
+git clone https://github.com/shazadkhan123456789/RestAssuredFancodeTest.git
+cd RestAssuredFancodeTest
 ```
 
 ## Install Dependencies
